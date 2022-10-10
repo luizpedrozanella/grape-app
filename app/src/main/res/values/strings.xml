@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Grape</string>
+    <string name="camera">Câmera</string>
+    <string name="gallery">Galeria</string>
+    <string name="process">Processar Imagem</string>
+    <string name="confirm">Confirmar</string>
+    <string name="scale">Escala</string>
+    <string name="new_analysis">Nova Análise</string>
+    <string name="tittle_main">Selecione ou capture uma imagem para iniciar</string>
+    <string name="tittle_scale">Informe a distância entre dois pontos na imagem</string>
+    <string name="tittle_crop">Selecione a área da imagem que deseja processar</string>
+    <string name="tittle_result">Pronto! O resultado da sua análise foi processado</string>
+</resources>
